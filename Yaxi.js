@@ -111,5 +111,5 @@ ${message.content}`)
     }
         })
 
-client.login("MTA4NTYxOTAzNDM2NTYzNjY5OQ.G70Shu.ZWUbtRIaKcMmpXYNOCRsGJtMSipvUT6F_kcWww");
+client.login("MTA4NTYxOTAzNDM2NTYzNjY5OQ.GhY7Ya.lbDJqWPulZgSz3f-vSTt2_ixOCSwWSLAegKuXc");
 
