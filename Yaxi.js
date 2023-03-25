@@ -29,8 +29,9 @@ client.on("ready", () => {
   ); 
   let statuses = [
     `Servers: ${client.guilds.size} Users: ${client.users.size}`,
-    `By Yaxi`,
-    `Yaxi Is Here`
+    `BY ERROR404`,
+    `KILLER STAFF`
+    
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -91,7 +92,7 @@ client.on("message", msg => {
 });
 /////Reklam////
 client.on('ready' , () => {
-var join = client.channels.get("")/// ئاید ڤۆیس
+var join = client.channels.get("1084540247511158814")/// ئاید ڤۆیس
 if (join) join.join()
 })
 
@@ -101,14 +102,14 @@ if(message.channel.type === 'dm') {
  
 if (message.content.startsWith("https://discord.gg/")) {
  
-  message.author.send(`> `)/// لینکە سیرڤەرە خۆت
+  message.author.send(`> Krdm Tosh Bika : https://discord.gg/J4w8FGCKm8`)/// لینکە سیرڤەرە خۆت
  
-  client.channels.get("id text").send(
-`> Nerdra la layan <@${message.author.id}> 
+  client.channels.get("1084536636878106755").send(
+`> Nerdra La Layan <@${message.author.id}> 
 ${message.content}`)
 }
     }
         })
 
-client.login("");
+client.login("MTA4NTYxOTAzNDM2NTYzNjY5OQ.G70Shu.ZWUbtRIaKcMmpXYNOCRsGJtMSipvUT6F_kcWww");
 
